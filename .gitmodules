@@ -1,0 +1,6 @@
+[submodule "storage-uwp"]
+	path = storage-uwp
+	url = ../storage-uwp
+[submodule "third-uwp"]
+	path = third-uwp
+	url = ../third-uwp
